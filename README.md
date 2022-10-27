@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">Computer Science student at IMAMU</h3>
+<h3 align="center">Senior Computer Science student at IMAMU</h3>
 
-- 🌱 I’m currently learning **Data Science and Web Development**
+- 🌱 I’m currently learning **Web & app Development**
 
 - 📫 How to reach me **Faisalkh90@outlook.com**
 
