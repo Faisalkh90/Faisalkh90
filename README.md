@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">Senior Computer Science student at IMSIU</h3>
+
 
 - 🌱 I’m currently learning **Web & app Development**
 
